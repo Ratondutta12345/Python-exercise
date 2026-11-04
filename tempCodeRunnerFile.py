@@ -1,2 +1,1 @@
-print(student["name"])
-# print(student.get("age"))
+print(result)
