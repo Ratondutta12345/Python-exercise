@@ -1,1 +1,1 @@
-print(result)
+        # print("Marks : ",self.marks+10)
